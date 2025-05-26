@@ -1,7 +1,5 @@
 # PDF Chatbot with LLM Integration
 
-![Project Banner]
-
 A RAG (Retrieval-Augmented Generation) system that allows querying information from PDF documents using local LLMs through LM Studio.
 
 ## Features
