@@ -33,7 +33,7 @@ A RAG (Retrieval-Augmented Generation) system that allows querying information f
 
 ### Backend Setup
 ```bash
-git clone https://github.com/yourusername/LLM_Project.git
+git clone [https://github.com/yourusername/LLM_Project.git](https://github.com/reefahtasnia/LLM_Project.git)
 cd LLM_Project/backend
 
 # Create virtual environment
