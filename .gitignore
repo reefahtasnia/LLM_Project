@@ -1,0 +1,6 @@
+# Ignore all files in the pdfs directory
+pdfs/
+!pdfs/.gitkeep
+
+# Ignore all PDF files anywhere in the repo
+*.pdf
